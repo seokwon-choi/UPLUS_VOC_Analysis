@@ -1,5 +1,5 @@
 # AI 기반 VOC 텍스트 데이터 분석을 통한 서비스 개선
-![image](https://user-images.githubusercontent.com/85105917/132142355-84c45906-ae23-4df6-ae18-5a310c8a452f.png)
+<img src="https://user-images.githubusercontent.com/85105917/132142355-84c45906-ae23-4df6-ae18-5a310c8a452f.png" width="700"></img> 
 
 ### 1. 담당 업무 : 구글 스토어에서 앱 리뷰 크롤링, 데이터 라벨링, BERT모델을 이용한 감성분류, 클러스터링(단어 치환 제외)
 
