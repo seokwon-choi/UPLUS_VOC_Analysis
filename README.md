@@ -4,10 +4,10 @@
 ### 1. 담당 업무 : 구글 스토어에서 앱 리뷰 크롤링, 데이터 라벨링, BERT모델을 이용한 감성분류, 클러스터링(단어 치환 제외)
 
 ### 2. 개발 기획(WBS를 작성해 프로젝트 일정 계획)
-![image](https://user-images.githubusercontent.com/85105917/132142463-8a53e428-7235-48e9-bba7-5fb3fb13a47e.png)
+<img src="https://user-images.githubusercontent.com/85105917/132142463-8a53e428-7235-48e9-bba7-5fb3fb13a47e.png" width="700"></img>
 
 #### 2-1. 데이터 흐름도
-![image](https://user-images.githubusercontent.com/85105917/132142496-ad670b61-940c-4a7a-9bb0-5410c3bec6a0.png)
+<img src="https://user-images.githubusercontent.com/85105917/132142496-ad670b61-940c-4a7a-9bb0-5410c3bec6a0.png" width="700"></img>
 
 
 ### 3. 프로젝트 진행과정
